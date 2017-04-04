@@ -1,0 +1,1 @@
+1. Only one type not equal to itself: NaN == NaN --> false.
