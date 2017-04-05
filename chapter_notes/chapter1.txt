@@ -1,1 +1,8 @@
 1. Only one type not equal to itself: NaN == NaN --> false.
+
+2. Urnary operators operate on one value vs. binary operator operating on two values. Ternary operators are like
+    shorthand if then statement (true) ? : a, b;
+
+3. The || operator allows a default value if the first value evaluates to false (a || b), using the second
+    statement if the first one isn't true. The && operator throws the second one away if not true. These are
+    called short circuit operations since the right side might never be evaluated.
