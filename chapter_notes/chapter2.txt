@@ -1,0 +1,5 @@
+1. alert(), confirm(), prompt() - useful toys for experiments.
+
+2. Cast (convert) w/ Number(), String(), Boolean().
+
+3. Number(bad) returns NaN.
