@@ -1,0 +1,17 @@
+1. Don't define a new function inside a conditional expression. Why would anyone though???
+
+2. Extra function arguments are just ignored, allowing flexibility and danger.
+
+3. A function that "closes over" some local variables is called a closure.
+
+4. TODO - Play with closure example
+
+5. A mental model for closures is "freezing" the code body.
+
+6. Speed vs. elegance - (assertion): any program can be made faster by making it bigger more convoluted.
+
+7. "The basic rule is to not worry about efficiency until the program is slow."
+
+8. TODO - Review recursion example.
+
+9. Functions defined in other functions have access to the outer functions local scope.
