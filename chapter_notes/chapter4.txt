@@ -1,1 +1,11 @@
-1.
+1. JS allows adding new property to object after it is constructed by merely assigning it!
+
+2. TODO - Review correlation calculation and associate code
+
+3. TODO - Review extra array methods and arguments
+
+4. In, JS, you can pass more or fewer arguments to a method; it can access these with 'arguments' keyword
+
+5. Will not warn you if you accidentally overwrite a method, it will just do it.
+
+6. Global scope variables are stored in 'window'
